@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Bloggy",
-  description: "This is an application",
+  description: "This is an application where users can manage blog post",
 };
 
 export default function RootLayout({ children }) {
